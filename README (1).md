@@ -40,6 +40,4 @@ python agenda_contactos.py
 
 - **Diccionario (`dict`)**: almacena pares `nombre: teléfono`, permitiendo acceso rápido por clave.
 
-## Tecnologías
 
-- Python 3
